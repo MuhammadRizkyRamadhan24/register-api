@@ -1,0 +1,19 @@
+{
+  "name": "register-api",
+  "version": "1.0.0",
+  "description": "register-api-tefa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kelompok5",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.13",
+    "nodemailer": "^6.3.0",
+    "restify": "^8.4.0",
+    "uuid": "^3.3.3"
+  }
+}
